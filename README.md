@@ -4,7 +4,7 @@ git clone https://github.com/husenxyz30/b-reff
 ```
 ### Requirements installation
 ```bash
-cd blockpad-autoref
+cd b-reff
 ```
 #### Windows and Termux:
 ```bash
